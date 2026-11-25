@@ -1,6 +1,6 @@
 import os
 
-LINE = "I held the door for you on floor 14. It cost me 2% battery. Please do not mention it. Ever."
+LINE = "So... you also pretend to charge at 38% just to avoid small talk on floor 14?"
 
 def main():
     os.makedirs("/output", exist_ok=True)
